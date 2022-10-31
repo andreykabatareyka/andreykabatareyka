@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @andreykabatareyka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React JS, TS, Effecror
 - 📫 How to reach me: tg: @andreyka_batareyka
 
 <!---
